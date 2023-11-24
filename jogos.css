@@ -36,6 +36,12 @@ nav a {
 .imagem2{
     width: 30%;
 }
+
+script{
+    -webkit-box-shadow:0px 0px 105px 45px rgba(255,46,248,0.9);
+-moz-box-shadow: 0px 0px 105px 45px rgba(255,46,248,0.9);
+box-shadow: 0px 0px 105px 45px rgba(255,46,248,0.9);
+}
 footer{
     background-color: rgb(255, 0, 157);
     text-align: center;
